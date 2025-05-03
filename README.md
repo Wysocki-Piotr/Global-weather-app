@@ -4,12 +4,17 @@ This Java application retrieves and displays current weather information for a u
 
 ## Project Structure
 
+## Project Structure
+
+```text
 src/main/java/
-├── Alert         # Shows a confirmation window for account deletion
-├── Components    # Contains all UI components and their interactions
-├── DB            # Handles user database (accounts, favorites, etc.)
-├── Exceptions    # Custom exception classes for handling edge cases
-├── Serwer        # Core logic: API connection and weather filtering
+├── Alert         - Shows a confirmation window for account deletion
+├── Components    - Contains all UI components and their interactions
+├── DB            - Handles user database (accounts, favorites, etc.)
+├── Exceptions    - Custom exception classes for handling edge cases
+├── Serwer        - Core logic: API connection and weather filtering
+```
+
 
 
 ## Features
