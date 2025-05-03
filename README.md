@@ -34,4 +34,9 @@ For example in IntelijIDEA run Main.java file.
 - Maven
 - API key from a weather data provider ([OpenWeatherMap](https://openweathermap.org/api))
 
+## Authors:
+
+- [Piotr Wysocki](https://github.com/Wysocki-Piotr)
+- [Bartosz Ząbkowski](https://github.com/bzabk)
+
 
