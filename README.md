@@ -4,8 +4,6 @@ This Java application retrieves and displays current weather information for a u
 
 ## Project Structure
 
-## Project Structure
-
 ```text
 src/main/java/
 ├── Alert         - Shows a confirmation window for account deletion
